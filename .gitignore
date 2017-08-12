@@ -1,0 +1,3 @@
+*.suo
+/CollectionSum/bin/Debug
+/CollectionSum/obj/Debug
